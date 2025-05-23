@@ -6,10 +6,6 @@
   margin: 0px
 }
 
-.cm-s-obsidian .cm-embed-block.cm-callout {
-  margin-block: 10px !important; 
-}
-
 .cm-embed-block.cm-callout:hover {
   border-radius: 8px !important;
 }
