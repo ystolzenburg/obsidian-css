@@ -1,4 +1,5 @@
 # Obsidian CSS Snippets
+→ https://help.obsidian.md/snippets
 ## callout-styling.css
 little touch-ups:
 - better icon placement
